@@ -1,0 +1,4 @@
+outs:
+- md5: e8bc4aee0de4e7b338fcb1bd083efe74
+  size: 1759628
+  path: cedr.csv

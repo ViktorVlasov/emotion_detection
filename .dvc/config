@@ -1,0 +1,7 @@
+[core]
+    remote = remote
+    autostage = false
+
+['remote "remote"']
+    url = s3://mfdp-data
+    endpointurl = https://storage.yandexcloud.net
