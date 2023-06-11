@@ -1,7 +1,7 @@
 mfdp_sentiment
 ==============================
 
-project for my first data project contest
+Проект для курса MFDP 2. Основной репозиторий на гитлаб: https://gitlab.com/ViktorVlasov/mfdp-sentiment 
 
 Project Organization
 ------------
